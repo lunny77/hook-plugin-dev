@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dev.lunny.basecomponent">
+
+    <application>
+        <activity android:name=".PluginBaseActivity"></activity>
+    </application>
+
+</manifest>
